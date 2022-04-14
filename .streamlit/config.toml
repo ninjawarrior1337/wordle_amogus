@@ -3,6 +3,5 @@ base = "dark"
 primaryColor="#3399ff"
 
 [server]
-port = 1234
 runOnSave = true
 headless = true
